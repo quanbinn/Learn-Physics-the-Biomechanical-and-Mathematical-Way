@@ -1,4 +1,4 @@
-# **Learn Physics the Biomechanical and Mathematical Way**
+# Learn Physics the Biomechanical and Mathematical Way
 # 《用生物力学和数学方法学物理》
 
 ### 实验中需要的多种工具
@@ -55,9 +55,11 @@
 
 - 照明和光的波动性
 - 反射和面镜
-	- [光的反射定律](/chapters/光/反射和面镜/光的反射定律.md)
+	- [光线经平面镜反射](/chapters/光/反射和面镜/光线经平面镜反射.md) | [光线经凸面镜和凹面镜反射](/chapters/光/反射和面镜/光线经凸面镜和凹面镜反射.md)
 - 折射和透镜
 	- [光的折射定律](/chapters/光/折射和透镜/光的折射定律.md)
+- 视角与光学仪器
+	- [视角](/chapters/光/视角与光学仪器/视角.md) | [放大镜](/chapters/光/视角与光学仪器/放大镜.md) | [显微镜](/chapters/光/视角与光学仪器/显微镜.md) | [望远镜](/chapters/光/视角与光学仪器/望远镜.md) 
 - 干涉与衍射
 	- [光的干涉现象](/chapters/光/干涉与衍射/光的干涉现象.md) | [光的衍射现象](/chapters/光/干涉与衍射/光的衍射现象.md)
   
