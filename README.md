@@ -1,6 +1,10 @@
 # Learn Physics the Biomechanical and Mathematical Way
 # 《用生物力学和数学方法学物理》
 
+### 实验前的准备
+
+- [**重要：首先准备好实验材料**](/chapters/实验前的准备/重要：首先准备好实验材料.md) | [学习方法](chapters/实验前的准备/学习方法.md) 
+
 ### 实验中需要的多种工具
 
 - 测量出7个基本单位的数量：
