@@ -1,5 +1,5 @@
-# Learn Physics the Biomechanical and Mathematical Way
-## 用生物力学和数学方法学物理
+# Learn Physics the Mathematical and Biomechanical Way
+## 用数学和生物力学的方法学物理
 
 ### 实验前的准备
 
